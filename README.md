@@ -4,7 +4,7 @@ As part of the codebaiscs resume challenge, I have performed data analysis and d
 
 Challenge [Link] (https://codebasics.io/challenge/codebasics-resume-project-challenge/4)
 
-Live Dashboard [Link]
+Dashboard [Link] (https://github.com/Manojkumar0715/AtliQ-Grands-Analysis-PowerBI/blob/main/Altiq%20Grands.pbix)
 
 
   ## Problem Statement
@@ -25,27 +25,41 @@ Create relevant insights that are not provided in the metric list/mock-up dashbo
 
 
    ## Mock-up Dashboard
+   <p align="center">
+  <img src="https://github.com/Manojkumar0715/AtliQ-Grands-Analysis-PowerBI/blob/main/mock%20up%20dashboard_atliq%20grands.png" height="400">
+</p>
    
    ## Data Model 
 
 <p align="center">
-  <img src=" " height="400">
+  <img src="https://github.com/Manojkumar0715/AtliQ-Grands-Analysis-PowerBI/blob/main/Model%20View.png" height="400">
 </p>
 
-  ### Dashboard
-  -------
+  ## Dashboard
+
+   ### Main DashBoard View 
 <p align="center">
-  <img src=" " height="400">
+  <img src="https://github.com/Manojkumar0715/AtliQ-Grands-Analysis-PowerBI/blob/main/Main%20Dashboard.png" height="400">
+</p>
+
+   ### City View 
+<p align="center">
+  <img src="https://github.com/Manojkumar0715/AtliQ-Grands-Analysis-PowerBI/blob/main/City%20View.png" height="400">
+</p>
+
+   ### Overall View 
+<p align="center">
+  <img src="https://github.com/Manojkumar0715/AtliQ-Grands-Analysis-PowerBI/blob/main/Overall%20View.png" height="400">
 </p>
 
  
   ## Some Major Insights
-  - AtliQ Grands total revenue is 1.71 billion over three months given data.
+  - **AtliQ Grands** total revenue is **1.71 billion** over three months given data.
   - Top 10 bookings based on revenune happened in Mumbai branch.
-  - Average daily revenue was 12.7 thousands.
-  - Around 232,576 Total capacity in AtliQ Grands.
-  - May month had more bookings (45,129) because of vacation period and July had minor deviation(39,169)
-  - More Revenue generated from Mumbai branch 668 Million and 43455 successful bookings
-  - Less revenue generated from Delhi branch 294 Million and 24231 successful bookings
-  - Elite(RT2) customer had more contribution in Revenue compared to other class of customers.
+  - Average **daily revenue** was **12.7 thousands**.
+  - Around **232,576** **Total capacity** in AtliQ Grands.
+  - **May month** had more **bookings (45,129)** because of vacation period and July had minor deviation(39,169).
+  - **More Revenue** generated from **Mumbai branch 668 Million** and **43,455** successful bookings.
+  - **Less revenue** generated from **Delhi branch 294 Million** and **24,231** successful bookings.
+  - **Elite(RT2)** customer had more contribution in Revenue compared to other class of customers.
   
